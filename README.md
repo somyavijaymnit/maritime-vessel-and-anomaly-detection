@@ -147,5 +147,4 @@ Current development focuses on:
 
 **Somya Vijay**
 
-Computer Vision | Machine Learning | UAV Surveillance | Object Detection
-this i will use as thsi is perfect
+Computer Vision | Deep Learning | YOLOv12 | OSNet | Multi-Object Tracking | UAV Maritime Surveillance
