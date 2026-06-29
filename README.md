@@ -136,12 +136,11 @@ Current development focuses on:
 
 ## 📊 Future Improvements
 
-* YOLOv12m Fine-Tuning
-* Stronger Tracking Integration
-* Zone-Based Intrusion Detection
-* Real-Time Alert System
-* Edge Deployment on UAV Hardware
-* Maritime Behavior Analysis
+- Fine-tune larger YOLOv12 variants (YOLOv12m/YOLOv12l) for improved detection accuracy.
+- Fine-tune the OSNet-based re-identification model on a larger and more diverse maritime dataset.
+- Improve cross-view vessel re-identification using viewpoint-invariant feature learning and metric-learning techniques.
+- Integrate stronger multi-object tracking algorithms for enhanced long-term identity preservation.
+- Optimize the end-to-end detection, tracking, and re-identification pipeline for real-time deployment.
 
 ---
 
