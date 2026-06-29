@@ -136,7 +136,6 @@ Current development focuses on:
 
 ## 📊 Future Improvements
 
-- Fine-tune larger YOLOv12 variants (YOLOv12m/YOLOv12l) for improved detection accuracy.
 - Fine-tune the OSNet-based re-identification model on a larger and more diverse maritime dataset.
 - Improve cross-view vessel re-identification using viewpoint-invariant feature learning and metric-learning techniques.
 - Integrate stronger multi-object tracking algorithms for enhanced long-term identity preservation.
